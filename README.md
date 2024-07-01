@@ -11,5 +11,3 @@ Hello! 👋<br><br>I'm a junior programmer from Spain, passionate about technolo
 ![](https://github-readme-stats.vercel.app/api?username=acf0x&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=acf0x&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=acf0x&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
