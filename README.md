@@ -37,11 +37,11 @@
 
 ###
 
-<img align="right" height="150" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"  />
+<div align="center">
+  <img height="150" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"  />
+</div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/acf0x/acf0x/output/snake.svg" alt="Snake animation" />
 
