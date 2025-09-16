@@ -1,8 +1,8 @@
-<h2 align="left">💫 About me</h2>
+<h2 align="left"> about me</h2>
 
 ###
 
-<h5 align="left">👋 Hi, I'm Alvaro, an AWS Solutions Architect from Spain, passionate about technology and always eager to learn and take on new challenges!</h5>
+<h5 align="left">👋 i terraform stuff. drift included </h5>
 
 ###
 
